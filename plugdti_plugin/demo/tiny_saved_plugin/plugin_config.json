@@ -1,0 +1,17 @@
+{
+  "drug_model_dir": "tiny_local_models\\tiny_drug_encoder",
+  "protein_model_dir": "tiny_local_models\\tiny_protein_encoder",
+  "drug_max_length": 64,
+  "protein_max_length": 128,
+  "drug_pooling": "mean",
+  "protein_pooling": "mean",
+  "drug_projection_dim": 32,
+  "protein_projection_dim": 32,
+  "common_projection_dim": 32,
+  "freeze_encoders": true,
+  "protein_add_spaces": true,
+  "local_files_only": true,
+  "trust_remote_code": false,
+  "cache_dtype": "float16",
+  "device": "cuda"
+}

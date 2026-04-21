@@ -1,0 +1,17 @@
+{
+  "drug_model_dir": "E:\\预训练的语义模型\\chem_bert\\chem_bert",
+  "protein_model_dir": "E:\\预训练的语义模型\\prot_bert_bfd\\prot_bert_bfd",
+  "drug_max_length": 256,
+  "protein_max_length": 1024,
+  "drug_pooling": "mean",
+  "protein_pooling": "mean",
+  "drug_projection_dim": 128,
+  "protein_projection_dim": 128,
+  "common_projection_dim": 128,
+  "freeze_encoders": true,
+  "protein_add_spaces": true,
+  "local_files_only": true,
+  "trust_remote_code": false,
+  "cache_dtype": "float16",
+  "device": "cuda"
+}
