@@ -11,7 +11,7 @@
 ## 1. 目录结构
 
 ```text
-plugdti_plugin_rebuilt/
+plugdti_plugin/
 ├─ plugdti/
 │  ├─ __init__.py
 │  ├─ cache.py
@@ -66,7 +66,7 @@ plugdti_plugin_rebuilt/
 先进入项目目录：
 
 ```bash
-cd plugdti_plugin_rebuilt
+cd plugdti_plugin
 ```
 
 安装依赖：
