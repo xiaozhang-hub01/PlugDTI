@@ -1,4 +1,4 @@
-# PlugDTI Plugin (rebuilt)
+# PlugDTI Plugin
 
 这是一个可插拔 DTI/DTA 序列增强插件，目标是：
 
